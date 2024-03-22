@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">socialmedia</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="facebook_app_id">752917366796508</string>
+    <string name="google_web_client_id">119395546005-4qjgu3m0s9vkmlbtanqgl3pueuk6nr5c.apps.googleusercontent.com</string>
+
+
+</resources>

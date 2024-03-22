@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">socialmedia</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
